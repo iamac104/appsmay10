@@ -5,10 +5,10 @@ Main functions:
 - Assign tasks to the team
 - Assign tasks to employee
 2. Productivity management
-+ Track productivity
+2.1. Track productivity
 - Monitoring productivity of the team
 - Personally monitor your productivity
-+ Enter productivity tickets
+2.2. Enter productivity tickets
 - Enter productivity tickets when completing jobs or ending the day
 
 # Support for app XN May Ha Quang
